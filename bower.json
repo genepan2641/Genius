@@ -1,0 +1,20 @@
+{
+  "name": "wolf-tea",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "genepan <gingerpan2641@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v3.3.6"
+  }
+}
